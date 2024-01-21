@@ -11,3 +11,5 @@ Hacer un modelo de machine learning que prediga si una persona esta contenta o t
 ## Objetivo
 
 Realizar limpieza de datos y un modelo de redes neuronales capaz de predecir el estado de animo de una persona, realizando las modificaciones necesarias para que sea lo mas preciso posible.
+
+El archivo con el codigo principal se llama [Procesar imgaenes.py](https://github.com/AdrianNiet/Kaggle-Emotions/blob/main/Procesar_imagenes.ipynb)
